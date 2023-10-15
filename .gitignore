@@ -1,0 +1,4 @@
+/.idea
+/build
+/.gradle
+/.gitlab-ci.yml
